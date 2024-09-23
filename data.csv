@@ -1,0 +1,8 @@
+date,amount,category,description
+23-09-2024,50.0,Income,salary
+01-01-2024,2500.0,Income,salary
+02-01-2024,1000.0,Expense,shopping
+05-01-2024,4000.0,Income,prize
+09-01-2024,500.0,Expense,fee
+11-01-2024,1500.0,Income,profit
+15-01-2024,700.0,Expense,book
